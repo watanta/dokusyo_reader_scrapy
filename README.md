@@ -1,0 +1,1 @@
+# dokusyo_reader_scrapy
